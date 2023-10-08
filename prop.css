@@ -1,9 +1,11 @@
 .top-section
 {
-    background-image:url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png);
+    background-image:url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png');
     background-size:cover;
     height:40vh;
     padding:40px;
+    width:400px;
+    margin:auto;
     
 
 }
